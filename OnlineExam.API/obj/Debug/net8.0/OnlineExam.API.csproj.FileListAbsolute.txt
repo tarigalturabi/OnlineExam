@@ -53,7 +53,6 @@ C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\staticweba
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OnlineExam.API.props
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\scopedcss\bundle\OnlineExam.API.styles.css
-C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\OnlineExam.API.csproj.CopyComplete
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\OnlineExam.API.dll
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\refint\OnlineExam.API.dll
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\OnlineExam.API.pdb
@@ -69,3 +68,5 @@ C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Microsoft.
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Serilog.dll
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\OnlineExam.API.sourcelink.json
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\OnlineEx.3C394ADA.Up2Date

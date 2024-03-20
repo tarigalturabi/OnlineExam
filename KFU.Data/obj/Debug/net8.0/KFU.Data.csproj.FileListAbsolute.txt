@@ -10,8 +10,9 @@ C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\KFU.Data.Generat
 C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\KFU.Data.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\KFU.Data.AssemblyInfo.cs
 C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\KFU.Data.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\KFU.Data.csproj.CopyComplete
 C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\KFU.Data.dll
 C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\refint\KFU.Data.dll
 C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\KFU.Data.pdb
 C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\ref\KFU.Data.dll
+C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\KFU.Data.sourcelink.json
+C:\Users\User\source\repos\OnlineExam\KFU.Data\obj\Debug\net8.0\KFU.Data.csproj.Up2Date

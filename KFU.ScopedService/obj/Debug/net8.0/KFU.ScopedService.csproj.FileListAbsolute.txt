@@ -12,8 +12,9 @@ C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\KFU.Sco
 C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\KFU.ScopedService.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\KFU.ScopedService.AssemblyInfo.cs
 C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\KFU.ScopedService.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\KFU.ScopedService.csproj.CopyComplete
 C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\KFU.ScopedService.dll
 C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\refint\KFU.ScopedService.dll
 C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\KFU.ScopedService.pdb
 C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\ref\KFU.ScopedService.dll
+C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\KFU.ScopedService.sourcelink.json
+C:\Users\User\source\repos\OnlineExam\KFU.ScopedService\obj\Debug\net8.0\KFU.Scop.61B952E8.Up2Date
