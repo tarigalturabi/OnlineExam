@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\OnlineExam\KFU.Core\bin\Debug\net8.0\KFU.Core.deps.json
+C:\Users\User\source\repos\OnlineExam\KFU.Core\bin\Debug\net8.0\KFU.Core.dll
+C:\Users\User\source\repos\OnlineExam\KFU.Core\bin\Debug\net8.0\KFU.Core.pdb
+C:\Users\User\source\repos\OnlineExam\KFU.Core\bin\Debug\net8.0\KFU.Common.dll
+C:\Users\User\source\repos\OnlineExam\KFU.Core\bin\Debug\net8.0\KFU.Common.pdb
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\KFU.Core.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\KFU.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\KFU.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\KFU.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\KFU.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\KFU.Core.csproj.CopyComplete
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\KFU.Core.dll
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\refint\KFU.Core.dll
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\KFU.Core.pdb
+C:\Users\User\source\repos\OnlineExam\KFU.Core\obj\Debug\net8.0\ref\KFU.Core.dll

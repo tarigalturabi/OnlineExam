@@ -1,0 +1,10 @@
+{
+  "portal": {
+
+    "UploadFilePath": "\\del_storage\\DEL-APPS\\Sites\\uploads\\del-portal.kfu.edu.sa\\",
+    "CSSPrintPath": "https://isb-sms.kfu.edu.sa/_frontend/assets/css/print.css",
+    "HeaderImagePath": "https://isb-sms.kfu.edu.sa/_frontend/assets/header_print_page.png",
+    "PathKeys": "\\del_storage\\DEL-APPS\\Sites\\keys\\dp-keys\\",
+    "LogPath": "\\Logs\\"
+  }
+}

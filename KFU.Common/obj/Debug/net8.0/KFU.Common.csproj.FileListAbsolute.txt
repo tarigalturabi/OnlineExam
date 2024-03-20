@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\OnlineExam\KFU.Common\bin\Debug\net8.0\KFU.Common.deps.json
+C:\Users\User\source\repos\OnlineExam\KFU.Common\bin\Debug\net8.0\KFU.Common.dll
+C:\Users\User\source\repos\OnlineExam\KFU.Common\bin\Debug\net8.0\KFU.Common.pdb
+C:\Users\User\source\repos\OnlineExam\KFU.Common\obj\Debug\net8.0\KFU.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OnlineExam\KFU.Common\obj\Debug\net8.0\KFU.Common.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OnlineExam\KFU.Common\obj\Debug\net8.0\KFU.Common.AssemblyInfo.cs
+C:\Users\User\source\repos\OnlineExam\KFU.Common\obj\Debug\net8.0\KFU.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OnlineExam\KFU.Common\obj\Debug\net8.0\KFU.Common.dll
+C:\Users\User\source\repos\OnlineExam\KFU.Common\obj\Debug\net8.0\refint\KFU.Common.dll
+C:\Users\User\source\repos\OnlineExam\KFU.Common\obj\Debug\net8.0\KFU.Common.pdb
+C:\Users\User\source\repos\OnlineExam\KFU.Common\obj\Debug\net8.0\ref\KFU.Common.dll
