@@ -16,4 +16,8 @@
     <ProjectReference Include="..\KFU.Common\KFU.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Caching\" />
+  </ItemGroup>
+
 </Project>

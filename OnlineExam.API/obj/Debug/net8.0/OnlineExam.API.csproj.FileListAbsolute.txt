@@ -70,3 +70,11 @@ C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Newtonsoft
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Serilog.dll
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\OnlineExam.API.sourcelink.json
 C:\Users\User\source\repos\OnlineExam\OnlineExam.API\obj\Debug\net8.0\OnlineEx.3C394ADA.Up2Date
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\User\source\repos\OnlineExam\OnlineExam.API\bin\Debug\net8.0\StackExchange.Redis.dll
